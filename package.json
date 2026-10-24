@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "express": "^5.1.0",
-    "http-proxy": "^1.18.1"
+    "http-proxy": "^1.18.1",
+    "tsdav": "2.3.5"
   }
 }
